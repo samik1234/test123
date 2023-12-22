@@ -7,6 +7,7 @@
 
 
 
+![arrayDestruct](https://github.com/samik1234/test123/assets/82882143/15de9c42-6fe9-47b3-b206-861daeeeb7ec)
 
 
 

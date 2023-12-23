@@ -4,7 +4,9 @@
 
 
 
-![Uploading about.jpg…]()
+
+
+![Code](https://github.com/samik1234/test123/assets/82882143/a4d4d043-73ae-4941-a0be-eb32b17f2cc2)
 
 
 
@@ -12,8 +14,7 @@
 
 
 
-
-ps://gi![reactParallax](https://github.com/samik1234/test123/assets/82882143/6e823a39-6999-4092-ae5f-6fe78eb72114)
+[reactParallax](https://github.com/samik1234/test123/assets/82882143/6e823a39-6999-4092-ae5f-6fe78eb72114)
 
 
 

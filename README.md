@@ -2,7 +2,6 @@
 
 
 
-![1trello](https://github.com/samik1234/test123/assets/82882143/632ba583-a97d-4426-be1b-4abbff58c8f8)
 
 
 ![blob (3)](https://github.com/samik1234/test123/assets/82882143/c74f71cc-c087-4d18-b89c-b917c1838214)

@@ -34,6 +34,7 @@
 
 
 
+![blob (2)](https://github.com/samik1234/test123/assets/82882143/1cfde9a2-0e46-4df5-adfb-cf0413df3870)
 
 [reactParallax](https://github.com/samik1234/test123/assets/82882143/6e823a39-6999-4092-ae5f-6fe78eb72114)
 

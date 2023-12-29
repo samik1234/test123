@@ -20,12 +20,10 @@
 
 
 
-![blob (5)](https://github.com/samik1234/test123/assets/82882143/dcc11602-d232-4b55-b150-d97ea05d20e4)
 
 
 
 
-![Code](https://github.com/samik1234/test123/assets/82882143/a4d4d043-73ae-4941-a0be-eb32b17f2cc2)
 
 
 

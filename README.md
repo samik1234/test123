@@ -1,4 +1,3 @@
-![navbar](https://github.com/samik1234/test123/assets/82882143/d4146be9-2114-45cc-b35f-7d72e6d1bab1)
 
 
 

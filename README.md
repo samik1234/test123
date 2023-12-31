@@ -13,7 +13,6 @@
 
 
 
-![blob (2)](https://github.com/samik1234/test123/assets/82882143/704a2b50-146e-40cc-9359-b6bf7d39fd65)
 
 
 
@@ -36,7 +35,6 @@
 
 
 
-![arrayDestruct](https://github.com/samik1234/test123/assets/82882143/15de9c42-6fe9-47b3-b206-861daeeeb7ec)
 
 
 

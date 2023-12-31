@@ -47,4 +47,3 @@
 
 
 
-![reactWeather](https://github.com/samik1234/test123/assets/82882143/3eb1ae20-7dcd-48a8-86f4-23708ee2a97e)

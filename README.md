@@ -18,7 +18,6 @@
 
 
 
-![ii (Small)](https://github.com/samik1234/test123/assets/82882143/62b6c2fc-8b56-4023-b56c-331700168746)
 
 
 

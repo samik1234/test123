@@ -7,7 +7,6 @@
 
 
 
-![placeholder](https://github.com/samik1234/test123/assets/82882143/4e4b07ea-c0e8-494a-8478-174746d3dada)
 
 
 

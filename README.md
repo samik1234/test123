@@ -5,7 +5,6 @@
 
 
 
-![blob (3)](https://github.com/samik1234/test123/assets/82882143/f3b3c3d9-69da-4613-bbe7-b20d3bc7fed9)
 
 
 

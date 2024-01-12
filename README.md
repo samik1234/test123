@@ -5,6 +5,7 @@ Working with lists: Creating ordered (numbered) and unordered (bulleted) lists t
 Styling lists: Changing list styles and using images as list items.
 Embedding images: Using images to make content more visually appealing.
 The CSS Box Model: Manipulating padding, borders, and margins to adjust layout.
+
 Using <header> and <footer> tags for a semantic HTML5 structure.
 Utilizing <section> elements to semantically group content.
 Create a list of ingredients with an unordered list and the <ul> tag.

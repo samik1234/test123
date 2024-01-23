@@ -1,8 +1,4 @@
 
-Recipe Page
-
-
-Start by creating the basic HTML structure of your recipe book. You can use HTML tags like , ,and to organize the different parts of your book.
 
 CSS Styling:
 Apply CSS styles to make your recipe book visually appealing. Use CSS selectors to target specific elements and apply styles such as fonts, colors, margins, and paddings. You can also use CSS frameworks like Bootstrap or Materialize to streamline your styling process.
